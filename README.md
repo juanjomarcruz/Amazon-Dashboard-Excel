@@ -1,4 +1,4 @@
-# Dashboard "Amazon" Excel
+# Amazon Dashboard in Excel
 
 ENGLISH / INGLÉS:
 
