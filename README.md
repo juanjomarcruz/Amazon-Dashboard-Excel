@@ -4,7 +4,7 @@
 
 ## Description
 
-An exciting project where I have analyzed an Amazon's dataset from Kaggle using Microsoft Excel to clean, transform and analyse data to build an insightful interactive dashboard for an hypothetic client.
+An exciting project where I have worked on an Amazon's dataset from Kaggle using Microsoft Excel to clean, transform and extract insights from data through an interactive dashboard to be delivered for an hypothetic client.
 
 ## Objective
 
@@ -25,8 +25,8 @@ Amazons_Churn_Analysis_in_Excel/
 │   └── amazon_churn_transformed.xlsx #includes data cleaning and transformations.
 ├── 3_Data_Analysis/
 │   ├── amazon_churn_descriptive_analysis.xlsx #includes descriptive univariate analysis of numerical columns and bivariate analysis of categorical and date columns.
-│   ├── amazon_churn_descriptive_analysis_cat.xlsx #includes descriptive bivariate analysis of numerical columns.
-│   └── amazon_churn_descriptive_analysis_num.xlsx #includes further descriptive bivariate analysis of categorical and date columns.
+│   ├── amazon_churn_descriptive_analysis_cat.xlsx #includes further descriptive bivariate analysis of categorical and date columns.
+│   └── amazon_churn_descriptive_analysis_num.xlsx #includes descriptive bivariate analysis of numerical columns.
 ├── 4_Data_Dasboard/
 │   └── amazon_churn_dashboard.xlsx #includes KPI definition, relevant columns selection and final dashboard (deliverable).
 ├── 5_Project_Notes/ #includes all my work notes and daily recaps of the different project stages.
@@ -113,14 +113,14 @@ Amazons_Churn_Analysis_in_Excel/
 
 ### 2. Data Cleaning and Transformation
 
-    Then, I discarded duplicated rows and irrelevant columns that were not interesting for the analysis. Once I had kept those columns that appeared to be interesting, I applied data cleaning and transformation techniques to streamline subsequent analysis (e.g., managing incorrect data typing or performing data normalization (same language, upper-/lower-casing, etc.)). (See Data Cleaning and Transformation Notes.docx).
+Then, I discarded duplicated rows and irrelevant columns that were not interesting for the analysis. Once I had kept those columns that appeared to be interesting, I applied data cleaning and transformation techniques to streamline subsequent analysis (e.g., managing incorrect data typing or performing data normalization (same language, upper-/lower-casing, etc.)). (See Data Cleaning and Transformation Notes.docx).
 
 ### 3. Exploratory Data Analysis (EDA):
 
-    EDA is the process where I examined the data using descriptive statistics summaries, pivot tables and pivot plots to start extracting insights that provide value. This step includes univariate and bivariate analysis on numerical, categorical and date columns. (See 3_Descriptive Data Analysis Notes.docx).
+EDA is the process where I examined the data using descriptive statistics summaries, pivot tables and pivot plots to start extracting insights that provide value. This step includes univariate and bivariate analysis on numerical, categorical and date columns. (See 3_Descriptive Data Analysis Notes.docx).
 
 ### 4. Interactive Dashboard:
 
-    Finally, I completed the creation of an interactive dashboard that included the key Performance Indicators (KPIs) and the most insightful visualizations. The dashboard was considered the project deliverable, allowing the client to obtain useful information at a glance and to detect patterns on its own for a better decision-making. (See 4_Dashboard Design Notes.docx).
+Finally, I completed the creation of an interactive dashboard that included the key Performance Indicators (KPIs) and the most insightful visualizations. The dashboard was considered the project deliverable, allowing the client to obtain useful information at a glance and to detect patterns on its own for a better decision-making. (See 4_Dashboard Design Notes.docx).
 
 <img src="0_Images/Dashboard.png" alt="Dashboard" width="900"/>
