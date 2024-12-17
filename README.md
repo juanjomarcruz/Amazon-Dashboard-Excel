@@ -109,7 +109,7 @@ Amazons_Churn_Analysis_in_Excel/
 
 ### 1. Pre-Analysis
 
-    I started with a pre-analysis of the different columns and rows in order to familiarize myself with the dataset: identification of data types and inconsistencies. (See Pre-Analysis Notes.docx).
+I started with a pre-analysis of the different columns and rows in order to familiarize myself with the dataset: identification of data types and inconsistencies. (See Pre-Analysis Notes.docx).
 
 ### 2. Data Cleaning and Transformation
 
