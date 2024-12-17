@@ -43,7 +43,7 @@ Amazons_Churn_Analysis_in_Excel/
 
 **2.** **Churn Label (string)**: Yes/No label that identifies whether the subscriber has cancelled the subscription or not.
 
-**3.** Churned (boolean): 1 if the subscriber cancelled subscription, 0 if the subscriber continues subscribed.
+**3.** **Churned (boolean)**: 1 if the subscriber cancelled subscription, 0 if the subscriber continues subscribed.
 
 **4.** **Account Length (in months) (integer)**: duration of the current/last account of the subscriber.
 
@@ -141,11 +141,11 @@ Finally, I completed the creation of an interactive dashboard that included the 
 
 ## Author
 
-- Juanjo Martínez Cruz [LinkedIn](www.linkedin.com/in/juan-jose-mt-cruz)
+- Juanjo Martínez Cruz [LinkedIn](https://www.linkedin.com/in/juan-jose-mt-cruz)
 
 ## Contributions
 
-Do not hesitate to contact me if you want to contribute to this project. I will be glad to open any discussion on my [LinkedIn](www.linkedin.com/in/juan-jose-mt-cruz) profile.
+Do not hesitate to contact me if you want to contribute to this project. I will be glad to open any discussion on my [LinkedIn](https://www.linkedin.com/in/juan-jose-mt-cruz) profile.
 
 ## The Project's Deliverable
 
