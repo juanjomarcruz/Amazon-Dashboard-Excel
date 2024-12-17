@@ -123,4 +123,30 @@ EDA is the process where I examined the data using descriptive statistics summar
 
 Finally, I completed the creation of an interactive dashboard that included the key Performance Indicators (KPIs) and the most insightful visualizations. The dashboard was considered the project deliverable, allowing the client to obtain useful information at a glance and to detect patterns on its own for a better decision-making. (See 4_Dashboard Design Notes.docx).
 
+## Main Insights
+
+**1.** The general Churn Rate went up to the 27% for the period between January 2020 and December 2023.
+
+**2.** Churned subscribers were charged almost a 5% more per month than average.
+
+**3.** Once the customer calls the service for the 3rd time, the probability of cancelling gets higher than keeping subscribed, reaching almost the 90% and increasing with further calls.
+
+**4.** The top reasons for churn have to be with the competitor offering a better product and the attitude of the customer service.
+
+**5.** Customer attrition gets reduced by a 20% after reaching one year of membership and continues decreasing until insignificant values as the account gets longer.
+
+**6.** Month-to-month contracts significantly favour subscription cancellation versus year contracts. Moreover, subscribers in a month-to-month contract have more probability to leave the platform than to stay enrolled when they pay by direct debit or paper check.
+
+**7.** During the analysed period, August has always been a month with many cancellations. However, surprisingly, since 2021, March has also showed a similar behaviour, being the month with the highest churn rates in 2021 and 2023.
+
+## Author
+
+- Juanjo Martínez Cruz [LinkedIn](www.linkedin.com/in/juan-jose-mt-cruz)
+
+## Contributions
+
+Do not hesitate to contact me if you want to contribute to this project. I will be glad to open any discussion on my [LinkedIn](www.linkedin.com/in/juan-jose-mt-cruz) profile.
+
+## The Project's Deliverable
+
 <img src="0_Images/Dashboard.png" alt="Dashboard" width="900"/>
